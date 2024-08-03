@@ -17,6 +17,14 @@
       "oAP" : "\/.gitattributes",
       "oF" : 0
     },
+    "\/assets\/images\/Heft-Favicon.iconsproj" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/Heft-Favicon.iconsproj",
+      "oF" : 0
+    },
     "\/assets\/images\/heft-home.png" : {
       "ft" : 32768,
       "iS" : 220341,
@@ -208,6 +216,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/CNAME" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/CNAME",
+      "oF" : 0
     },
     "\/favicon.icns" : {
       "cB" : 0,
