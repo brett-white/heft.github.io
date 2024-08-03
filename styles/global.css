@@ -1,0 +1,118 @@
+/* START RESET */
+html, body, div, section, article, header, footer, figure, span, h1, h2, h3, h4, h5, h6, p, br, table, th, tr, td, img, code, dl, dt, dd, ol, ul, li, fieldset, form, label {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-size: 100%;
+    font-weight: normal;
+  }
+  html {
+    background: #ECECF0;
+  }
+  body {
+    min-height: 100vh;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 28px;
+    background-color: #ECECF0;
+    color: #000066;
+    fill: #000066;
+  }
+  .logo {
+    display: block;
+    width: auto;
+    height: 56px;
+  }
+  main {
+    display: flex;
+    flex-flow: wrap;
+    width: 100vw;
+    height: 100vh;
+  }
+  header {
+    background: #000066;
+  }
+  header h1 {
+    display: block;
+    float: left;
+    color: white;
+    font-size: 56px;
+    line-height: 120%;
+    font-weight: 900;
+    width: 100%;
+  }
+  header h1 span {
+    color: #88ee00;
+    font-weight: inherit;
+  }
+  header article * + * {
+    margin-top: 40px;
+  }
+  .container {
+    max-width: 1280px;
+    margin: 0 auto;
+    position: relative;
+  }
+  .flex-row {
+    display: flex;
+    flex-flow: wrap;
+  }
+  .flex-col {
+    display: flex;
+    align-items: center;
+  }
+  .flex-col.one-half {
+    width: 100%;
+  }
+  .flex-col article {
+    padding: 48px;
+  }
+  .flex-col figure {
+    padding: 24px;
+  }
+  .button {
+    display: block;
+    float: left;
+    background-color: #88ee00;
+    color: #000066;
+    border-radius: 34px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    padding: 24px 56px;
+    text-decoration: none;
+  }
+  .preview {
+    width: 100%;
+    height: auto;
+  }
+  footer h2 {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  footer h2 a {
+    font-weight: 700;
+    color: #000066;
+    text-decoration: none;
+  }
+  footer p {
+    font-size: 14px;
+  }
+  footer * + * {
+    margin-top: 24px;
+  }
+
+
+  @media only screen and (min-width: 880px) {
+    .flex-col.one-half {
+      width: 50%;
+    }
+    .preview {
+      margin-bottom: -24vh;
+    }
+    .flex-col figure {
+      padding: 48px 0;
+    }
+  }
