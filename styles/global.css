@@ -63,6 +63,9 @@ html, body, div, section, article, header, footer, figure, span, h1, h2, h3, h4,
     display: flex;
     align-items: center;
   }
+  .flex-col.align-top {
+    align-items: start;
+  }
   .flex-col.one-half {
     width: 100%;
   }
@@ -149,6 +152,7 @@ html, body, div, section, article, header, footer, figure, span, h1, h2, h3, h4,
   .preview {
     width: 100%;
     height: auto;
+    margin-top: -48px;
   }
   footer h2 {
     font-size: 24px;
@@ -176,6 +180,7 @@ html, body, div, section, article, header, footer, figure, span, h1, h2, h3, h4,
     }
     .preview {
       margin-bottom: -24vh;
+      margin-top: -24px;
     }
     .flex-col figure {
       padding: 48px 0;
