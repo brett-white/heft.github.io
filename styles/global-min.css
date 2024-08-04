@@ -37,17 +37,17 @@ html, body, div, section, article, header, footer, figure, span, h1, h2, h3, h4,
   header h1 {
     display: block;
     float: left;
+    width: 100%;
     color: white;
     font-size: 56px;
     line-height: 120%;
     font-weight: 900;
-    width: 100%;
   }
   header h1 span {
     color: #88ee00;
     font-weight: inherit;
   }
-  header article * + * {
+  header article > * + * {
     margin-top: 40px;
   }
   .container {
@@ -72,7 +72,15 @@ html, body, div, section, article, header, footer, figure, span, h1, h2, h3, h4,
   .flex-col figure {
     padding: 24px;
   }
-  .button {
+  .waitlist-form {
+    display: block;
+    float: left;
+    width: 100%;
+  }
+  .waitlist-form > * . * {
+    margin-top: 16px;
+  }
+  .heft-button-primary {
     display: block;
     float: left;
     background-color: #88ee00;
@@ -83,6 +91,63 @@ html, body, div, section, article, header, footer, figure, span, h1, h2, h3, h4,
     line-height: 20px;
     padding: 24px 56px;
     text-decoration: none;
+  }
+  #mc-embedded-subscribe {
+    margin: 16px 0 0;
+  }
+  #mc_embed_signup form {
+    margin: 0;
+  }
+  .waitlist-form #mc_embed_signup input.heft-button-primary {
+    border-radius: 34px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    border: none;
+    margin: 16px 0 0;
+    cursor: pointer;
+  }
+  .waitlist-form .waitlist-form #mc_embed_signup input,
+  .waitlist-form #mce-EMAIL {
+    display: block;
+    float: left;
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "Poppins", sans-serif;
+    border: solid 2px #9999cc;
+    border-radius: 4px;
+    color: #000066;
+  }
+  .waitlist-form #mce-EMAIL::-moz-placeholder {
+    color: #9999cc;
+  }
+  .waitlist-form #mce-EMAIL::placeholder {
+    color: #9999cc;
+  }
+  .waitlist-form #mce-EMAIL:active,
+  .waitlist-form #mce-EMAIL:focus {
+    border: solid 2px #88ee00;
+  }
+  .waitlist-form #mce-error-response,
+  .waitlist-form #mc_embed_signup div.mce_inline_error,
+  .waitlist-form #mce-success-response {
+    display: block;
+    float: left;
+    width: 100%;
+    background-color: transparent;
+    padding: 0;
+    margin: 8px 0 0;
+  }
+  .waitlist-form #mc_embed_signup input.mce_inline_error {
+    border-color: red;
+  }
+  .waitlist-form #mce-error-response,
+  .waitlist-form #mc_embed_signup div.mce_inline_error {
+    color: red;
+  }
+  .waitlist-form #mce-success-response {
+    color: #88ee00;
   }
   .preview {
     width: 100%;
