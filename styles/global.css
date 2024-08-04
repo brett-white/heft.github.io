@@ -116,7 +116,7 @@ html, body, div, section, article, header, footer, figure, span, h1, h2, h3, h4,
     line-height: 24px;
     font-family: "Poppins", sans-serif;
     border: solid 2px #9999cc;
-    border-radius: 4px;
+    border-radius: 8px;
     color: #000066;
   }
   .waitlist-form #mce-EMAIL::placeholder {
