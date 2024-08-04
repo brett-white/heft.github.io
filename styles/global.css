@@ -22,8 +22,8 @@ html, body, div, section, article, header, footer, figure, span, h1, h2, h3, h4,
   }
   .logo {
     display: block;
-    width: auto;
-    height: 56px;
+    width: 80px;
+    height: auto;
   }
   main {
     display: flex;
@@ -40,7 +40,7 @@ html, body, div, section, article, header, footer, figure, span, h1, h2, h3, h4,
     width: 100%;
     color: white;
     font-size: 56px;
-    line-height: 120%;
+    line-height: 110%;
     font-weight: 900;
   }
   header h1 span {

@@ -38,6 +38,16 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/assets\/images\/heft-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/images\/heft-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/assets\/images\/heft-logo.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -258,6 +268,18 @@
       "ma" : 0,
       "oA" : 0,
       "oAP" : "\/styles\/fonts-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/styles\/global-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/styles\/global-min-min.css",
       "oF" : 0,
       "pg" : 0
     },
