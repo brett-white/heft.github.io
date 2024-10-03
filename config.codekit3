@@ -17,13 +17,57 @@
       "oAP" : "\/.gitattributes",
       "oF" : 0
     },
-    "\/assets\/images\/Heft-Favicon.iconsproj" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
+    "\/assets\/images\/apple-touch-icon-76x76.png" : {
+      "ft" : 32768,
+      "iS" : 1578,
       "oA" : 0,
-      "oAP" : "\/assets\/images\/Heft-Favicon.iconsproj",
-      "oF" : 0
+      "oAP" : "\/assets\/images\/apple-touch-icon-76x76.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/images\/apple-touch-icon-120x120.png" : {
+      "ft" : 32768,
+      "iS" : 2184,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/apple-touch-icon-120x120.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/images\/apple-touch-icon-152x152.png" : {
+      "ft" : 32768,
+      "iS" : 2776,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/apple-touch-icon-152x152.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/images\/apple-touch-icon.png" : {
+      "ft" : 32768,
+      "iS" : 3244,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/apple-touch-icon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
     },
     "\/assets\/images\/heft-home.png" : {
       "ft" : 32768,
@@ -84,135 +128,15 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/assets\/images\/icon_16x16.png" : {
-      "ft" : 32768,
-      "iS" : 659,
-      "oA" : 0,
-      "oAP" : "\/assets\/images\/icon_16x16.png",
+    "\/assets\/images\/heft-screens.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/images\/heft-screens.svg",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/images\/icon_16x16@2x.png" : {
-      "ft" : 32768,
-      "iS" : 1098,
-      "oA" : 0,
-      "oAP" : "\/assets\/images\/icon_16x16@2x.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/images\/icon_32x32.png" : {
-      "ft" : 32768,
-      "iS" : 1412,
-      "oA" : 0,
-      "oAP" : "\/assets\/images\/icon_32x32.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/images\/icon_32x32@2x.png" : {
-      "ft" : 32768,
-      "iS" : 1950,
-      "oA" : 0,
-      "oAP" : "\/assets\/images\/icon_32x32@2x.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/images\/icon_128x128.png" : {
-      "ft" : 32768,
-      "iS" : 5576,
-      "oA" : 0,
-      "oAP" : "\/assets\/images\/icon_128x128.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/images\/icon_128x128@2x.png" : {
-      "ft" : 32768,
-      "iS" : 7957,
-      "oA" : 0,
-      "oAP" : "\/assets\/images\/icon_128x128@2x.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/images\/icon_256x256.png" : {
-      "ft" : 32768,
-      "iS" : 11151,
-      "oA" : 0,
-      "oAP" : "\/assets\/images\/icon_256x256.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/images\/icon_256x256@2x.png" : {
-      "ft" : 32768,
-      "iS" : 18429,
-      "oA" : 0,
-      "oAP" : "\/assets\/images\/icon_256x256@2x.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/images\/icon_512x512.png" : {
-      "ft" : 32768,
-      "iS" : 24443,
-      "oA" : 0,
-      "oAP" : "\/assets\/images\/icon_512x512.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/images\/icon_512x512@2x.png" : {
-      "ft" : 32768,
-      "iS" : 46638,
-      "oA" : 0,
-      "oAP" : "\/assets\/images\/icon_512x512@2x.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/assets\/images\/og-thumbnail-heft.jpg" : {
       "ft" : 16384,
@@ -235,21 +159,54 @@
       "oAP" : "\/CNAME",
       "oF" : 0
     },
-    "\/favicon.icns" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
+    "\/favicon-16x16.png" : {
+      "ft" : 32768,
+      "iS" : 447,
       "oA" : 0,
-      "oAP" : "\/favicon.icns",
-      "oF" : 0
+      "oAP" : "\/favicon-16x16.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
     },
-    "\/favicon.ico" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
+    "\/favicon-32x32.png" : {
+      "ft" : 32768,
+      "iS" : 771,
       "oA" : 0,
-      "oAP" : "\/favicon.ico",
-      "oF" : 0
+      "oAP" : "\/favicon-32x32.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/favicon.png" : {
+      "ft" : 32768,
+      "iS" : 771,
+      "oA" : 0,
+      "oAP" : "\/favicon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/favicon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/favicon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/index.html" : {
       "cB" : 0,
@@ -314,7 +271,7 @@
     "creationDate" : 744403322.12068295,
     "displayValue" : "heft.github.io",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "brackets-tar",
+    "iconImageName" : "\/assets\/images\/apple-touch-icon-120x120.png",
     "iconImageWasSetByUser" : 0
   },
   "projectSettings" : {
